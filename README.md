@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @LavaMelon
-- 👀 I’m interested in science.
-- 🌱 I’m currently learning. 
-- 📫 How to reach me? Just send me message on gmail (lava.mlemlon@gmail.com).
-- I'm from Poland, so sorry for bad mistakes.
+- Hi, I’m @LavaMelon
+- I’m interested in science.
+- I’m currently learning. 
+- How to reach me? Just send me message on gmail (lava.mlemlon@gmail.com).
+- I'm from Poland, so sorry for any spelling mistakes.
 - I have discord account. (ID: 530025908057276417), currently my nick is Lava_Melon#9972
